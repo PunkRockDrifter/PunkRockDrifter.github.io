@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.bearing.app",
+    "sha256_cert_fingerprints": [
+      "AD:DF:DF:5A:8B:0F:01:92:D9:DA:7B:3A:54:6D:31:FF:24:2C:97:1F:32:20:14:02:2E:29:0F:F7:10:F8:17:C2",
+      "F6:49:81:90:99:55:AE:D0:E8:3B:23:27:91:94:5A:52:12:87:5E:20:C2:66:B7:24:04:89:8C:3C:A6:47:2C:B4"
+    ]
+  }
+}]
